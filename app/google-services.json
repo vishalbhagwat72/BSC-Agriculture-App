@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202911840504",
+    "project_id": "bsc-agriculture-70eb2",
+    "storage_bucket": "bsc-agriculture-70eb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202911840504:android:1d2a31fdbb98a0cd5b630d",
+        "android_client_info": {
+          "package_name": "com.marathidevelopers.bsc_agri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202911840504-ll93mr6uu43bhr76aubo5mfmg4g69ac6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDylsMPmFEdZoZryqmDiDroRoBV_xLjI5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202911840504-ll93mr6uu43bhr76aubo5mfmg4g69ac6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
